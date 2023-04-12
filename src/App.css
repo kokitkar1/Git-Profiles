@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+button{
+  background-color: rgb(125, 155, 209);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: #22b970;
+}
+
+input{
+  border-radius: 5px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.container{
+  display: inline-block;
+  margin: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: lightseagreen;
+  padding: 10px;
+}
+
+.card-img-top{
+  border-radius: 10px;
+}
+
+.details p span{
+color: rgb(103, 11, 29);
+font-weight: 700;
+}
+
+
+
+
